@@ -1,0 +1,16 @@
+p {
+				color:orange;
+				font:Bold italic 25px Verdana;
+				padding: 10px 40px;/* up left bottom right */
+				background-color:black;
+				border: 15px groove orange;
+				/*border-top:10px groove grey;
+				border-bottom: 5px dotted red;*/ 
+				margin: 50px;
+	} 
+
+/*body{
+
+	margin-left: 0px;
+	margin-right: 0px; 
+}*/
