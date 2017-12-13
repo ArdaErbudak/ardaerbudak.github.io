@@ -1,10 +1,10 @@
 p {
-				color:orange;
+				color:#ff3333;
 				font:Bold italic 25px Verdana;
 				padding: 10px 40px;/* up left bottom right */
 				background-color:black;
 				width: 600px; 
-				border: 15px groove orange; 
+				border: 15px groove #ff3333; 
 				margin-left: 445px;
 	} 
 
@@ -13,5 +13,11 @@ iframe {
 }
 
 div{
-	margin-left: 621px; 
+	margin-left: 621px;
+	
+	}
+body{
+	background-image:url("walp.jpg");
+    background-repeat:no-repeat;
+    background-position: top center;
 }
